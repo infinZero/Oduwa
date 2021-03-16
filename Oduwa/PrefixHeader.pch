@@ -1,0 +1,23 @@
+//
+//  PrefixHeader.pch
+//  UnifyEarth
+//
+//  Created by Jayesh on 01/06/18.
+//  Copyright © 2018 Jayesh. All rights reserved.
+//
+#import "Constant.h"
+#import "AppDelegate.h"
+#import "AZNotification.h"
+#import "AFNetworking.h"
+#import "MBProgressHUD.h"
+#import "AFHTTPRequestOperation.h"
+#import "AFHTTPRequestOperationManager.h"
+
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
